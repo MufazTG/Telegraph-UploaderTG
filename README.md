@@ -4,9 +4,6 @@ A simple small media or file to telegra.ph link uploader bot.
 ---
 ```
 (C) @BX_Botz
-Copyright permission under GNU General Public License v3.0
-License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICENSE
-```
 
 ---
 
