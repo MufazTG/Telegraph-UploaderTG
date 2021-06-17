@@ -1,7 +1,7 @@
 # Telegraph-Uploader-Bot
 A simple small media or file to telegra.ph link uploader bot.
 
-© @BX_Botz
+@BX_Botz
 # Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mufazTG/Telegraph-UploaderTG)
