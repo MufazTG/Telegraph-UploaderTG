@@ -2,9 +2,9 @@
 A simple small media or file to telegra.ph link uploader bot.
 
 # Deploy To Heroku
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Telegraph-Uploader-Bot">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mufazTG/Telegraph-UploaderTG)
+
 
 # For Deploy
 - `API_HASH` Your API Hash from my.telegram.org
