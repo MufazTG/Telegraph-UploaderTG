@@ -19,12 +19,7 @@ License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot/blob/main/LICE
   <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Telegraph-Uploader-Bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
 
-
-## Variables
-
-<details>
-  <summary><b>See variables</b></summary>
-
+# For Deploy
 - `API_HASH` Your API Hash from my.telegram.org
 - `API_ID` Your API ID from my.telegram.org
 - `BOT_TOKEN` Your bot token from @BotFather
