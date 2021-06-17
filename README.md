@@ -1,17 +1,7 @@
 # Telegraph-Uploader-Bot
 A simple small media or file to telegra.ph link uploader bot.
 
----
-```
-(C) @BX_Botz
-
----
-
-## Deploy
-
-<details>
-  <summary><b>Deploy on Heroku</b></summary>
-
+# Deploy To Heroku
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Telegraph-Uploader-Bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
